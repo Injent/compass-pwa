@@ -1,0 +1,16 @@
+version:0
+string|feature_schedule_breakAt|QnJlYWsgYXQgJTEkcw==
+string|feature_schedule_breakFor|QnJlYWsgZm9yICUxJHM=
+string|feature_schedule_breakIn|QnJlYWsgaW4gJTEkcw==
+string|feature_schedule_breakWas|QnJlYWsgd2FzICUxJHM=
+string|feature_schedule_evenWeek|ZXZlbg==
+string|feature_schedule_forToday|Rm9yIHRvZGF5
+string|feature_schedule_forTomorrow|VG9tb3Jyb3c=
+string|feature_schedule_lectureAbr|TA==
+string|feature_schedule_lessonsEndedLast|TGVzc29ucyBlbmRlZCAlMSRz
+string|feature_schedule_noLessons_subheadline|WW91ciBncm91cCBkb2Vzbid0IGhhdmUgYW55IGxlc3NvbnMgZm9yIHRvZGF5
+string|feature_schedule_noLessons|Tm8gbGVzc29ucyE=
+string|feature_schedule_oddWeek|b2Rk
+string|feature_schedule_practiceAbr|UA==
+string|feature_schedule_selectGroup|U2VsZWN0IGdyb3Vw
+string|feature_schedule_startedLast|TGVzc29ucyBlbmRlZCAlMSRz
